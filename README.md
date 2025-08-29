@@ -1,6 +1,9 @@
 # MRI-Brain-Scan-Analysis-project
 
-🧠 MRI Brain Scan Analysis Dashboard is a Power BI project that visualizes patient MRI data, highlighting scan counts, diagnoses, demographic insights, and hospital performance. It helps doctors, researchers, and analysts explore brain health trends and supports data-driven decision-making in healthcare. README.md
+🧠 MRI Brain Scan Analysis Dashboard is a Power BI project that visualizes patient MRI data, highlighting scan counts, diagnoses, demographic insights, and hospital performance. It helps doctors, researchers, and analysts explore brain health trends and supports data-driven decision-making in healthcare.
+
+<img width="1325" height="722" alt="image" src="https://github.com/user-attachments/assets/ddc3ee10-f293-47f6-bd88-2bf76cfd74ee" />
+
 
 # 🧠 MRI Brain Scan Analysis – Power BI Project
 📖 Overview
